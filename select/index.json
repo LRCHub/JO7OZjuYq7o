@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "笑顔",
+  "base_artist": "Ikimonogakari",
+  "createdAt": "2026-01-05T09:13:26.435825Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "笑顔",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/01_笑顔_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "笑顔",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/02_笑顔_back_number.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "笑顔",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/03_笑顔_back_number.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "笑顔",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/04_笑顔_Ikimonogakari.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "笑顔",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/05_笑顔_いきものがかり.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "笑顔",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/06_笑顔_いきものがかり.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "笑顔",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/07_笑顔_いきものがかり.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "笑顔",
+      "artist": "Ikimono-gakari",
+      "has_synced": true,
+      "path": "select/08_笑顔_Ikimono-gakari.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "笑顔",
+      "artist": "鈴木愛理",
+      "has_synced": false,
+      "path": "select/09_笑顔_鈴木愛理.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "笑顔",
+      "artist": "Anly",
+      "has_synced": true,
+      "path": "select/10_笑顔_Anly.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "笑顔",
+      "artist": "生物股长",
+      "has_synced": true,
+      "path": "select/11_笑顔_生物股长.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "笑顔",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_01_笑顔_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "笑顔",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_02_笑顔_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "笑顔",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_03_笑顔_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "笑顔",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_04_笑顔_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "笑顔",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_05_笑顔_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "笑顔",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_06_笑顔_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "笑顔",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_07_笑顔_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "笑顔",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_08_笑顔_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "笑顔",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_09_笑顔_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "笑顔",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_10_笑顔_いきものがかり.txt"
+    }
+  ]
+}
